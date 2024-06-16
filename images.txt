@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 nacos/nacos-server:v2.3.2
+nacos/nacos-server:v1.4.7
