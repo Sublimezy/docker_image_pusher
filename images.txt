@@ -7,3 +7,4 @@ xhofe/alist:latest
 nacos/nacos-server:v2.3.2
 nacos/nacos-server:v1.4.7
 mysql
+rocketmqinc/rocketmq
