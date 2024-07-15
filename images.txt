@@ -8,3 +8,4 @@ nacos/nacos-server:v2.3.2
 nacos/nacos-server:v1.4.7
 mysql
 apache/rocketmq:4.9.4
+rabbitmq
