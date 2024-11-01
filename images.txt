@@ -10,3 +10,4 @@ mysql
 apache/rocketmq:4.9.4
 rabbitmq
 redis
+elasticsearch:7.3.0
