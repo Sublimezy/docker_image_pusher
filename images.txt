@@ -13,3 +13,4 @@ redis
 elasticsearch:7.3.0
 logstash:7.3.0
 kibana:7.3.0
+mariadb
